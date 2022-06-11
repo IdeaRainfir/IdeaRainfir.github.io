@@ -53,16 +53,6 @@
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 以这个世界为棋盘，来一场最大的博弈吧！
 无限接近于零，却又不等于零的可能性。 
