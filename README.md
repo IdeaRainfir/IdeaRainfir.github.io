@@ -1,15 +1,53 @@
-## Welcome to GitHub Pages
+## TheStoryNeverEnd
 
-You can use the [editor on GitHub](https://github.com/IdeaRainfir/IdeaRainfir.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+继承逝者的意志，仰望十条盟约，向盟约起誓
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+【一】这个世界禁止一切杀伤、战争与掠夺。
+【二】所有的纠纷一律以游戏胜负解决。
+【三】游戏需赌上双方判断对等的赌注。
+【四】在不违反的情况下，游戏内容、赌注皆不限制。
+【五】受挑战方有权决定游戏的内容。
+【六】举凡〈向盟约宣誓〉的打赌绝对要遵守。
+【七】集团间的纠纷应指定全权代理人。
+【八】游戏中若有不正当行为，一旦败露即视同败北。
+【九】以神之名宣布，以上各条皆为绝对不变的规则。
+【十】大家一起和平地玩吧!!
+
+十六种族 Exceed
+神灵种 Old Deus
+幻想种 Phantasma
+精灵种 Elemental
+龙精种 Dragonia
+巨人种 Gigant
+天翼种 Fluegel 住在 Avant Heim
+森精种 Elf 住在 Elven Gard
+地精种 Dwarf
+妖精种 Fairy
+机凯种 Ex-machina
+妖魔种 Demonia
+吸血种 Dhampir
+月咏种 Lunamana
+兽人种 Warbeast/werebeast
+海栖种 Siren
+人类种 Immunity
+
+棋盘世界 Disboard
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+机凯种共有27451种以上的武装，通过复制再现出其他种族的兵装统称伪典，以下为机凯种目前使用过的武装：
+「伪典·森空摄」：森精种魔法的再现兵器——放出无数道可以切裂所有物体的真空刃的武装。
+「伪典·焉龙哮」：龙精种三王之一焉龙以生命为代价释放的崩啸，机凯种再现了其43.7%输出制成的武装。
+「伪典·天击」：复制了战神赐予天翼种的力量——天击制成的兵装。
+「伪典·天移」：天翼种的空间转移能力，本来只是作用于天翼种自身而无法被复制，因阿兹莉尔用作攻击手段而被机凯种成功复制。
+「真典·弑星者」：将战神的「神击」、森精种的「虚空第零加护」、地精种的「髓爆」、龙精种的「崩啸」收束而成的能量复制，以72.8%输出再现制成的武装。
+「真典·空之攻略者」：以空间改写能力为基础营造galgame的攻略环境。【1】
+「进入禁止」：机凯种的防御武装。
+「一方通行」：机凯种为应对天翼种和森精种的空间转移所设计的空间破碎器。
+「通行规制」：能将所有能量指向扭曲的武装。
+「制速违反」：将典开的全部武装一齐，以超高浓缩的精灵粒子化后放射出来，一般的生物──就连森精种触碰到的话也会被即死，休比利用超高浓缩精灵指向性使其挥发造成自身超加速。
+「全方交叉」：与制速违反同理，将超高浓缩精灵以无指向性的挥发构成“攻势防壁”。
+「对未知用战斗演算」：由休比编写的演算方式——遵循心的命令而行动，不进行理解和计算，如果敌人是未知的存在，就对所有无法计算的要素都纳入到估计之中。
 
 # Header 1
 ## Header 2
@@ -26,12 +64,41 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+以这个世界为棋盘，来一场最大的博弈吧！
+无限接近于零，却又不等于零的可能性。 
+比起不做而后悔，不如做了再后悔。
+正因为生来便一无所有，所以才拥有无限可能。
+自觉是笨蛋的笨蛋——比自以为聪明的笨蛋更为难缠喔
+应该改变的不是自己，而是手段。
+我不相信人类......但是，我相信人类的“可能性”
+使世界变得复杂难懂的并不是世界本身。
+而是那些生活在这世界上的无聊之辈所造成的
+游戏的最终极的获胜方式是不战而胜。
+这个世界上不存在运气，规则，前提，心里状态，
+由于无数这种看不见的变量所带来的无法预测的必然，游戏的胜败在开始前就定好了，没有偶然。
+如果你认为强壮又长命就是力量，那么你才是——『头脑简单』
+承认吧，我们是最弱的种族，正因为生来什么都没有，因此我们能拥有一切，以身为最弱种族为傲吧。
+聪明的人呢早就选择死亡，更聪明的人选择不生下来。
+都市传说，那是一种愿望。因为，现实一般都是最无聊的答案才是真实的。
+活下去的理由只有一个，不愿意没有任何意义的死去
+
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IdeaRainfir/IdeaRainfir.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+休比机体识别码
+üc207Pr4f57t9
+üc207：隶属连接体·尤巴第207号机体
+Pr4：机种为第四型解析体
+f57：第57世代机型
+t9：体形为第9类少女体形
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+「白，我们两人总是缺一不可。」
+「白，我们是因约定而结合。」
+「白，我们不是少年漫画的主角。」
+「白，我们总是在开始游戏前就获胜。」
+第三：对游戏的绝对态度 第二：对白的绝对信任 第一：白的一切
+
+向全体机凯种致以最崇高的敬意
+休比和其它机凯种同步上传数据只需要几秒钟的，可是同步“心”这数据却要251秒
